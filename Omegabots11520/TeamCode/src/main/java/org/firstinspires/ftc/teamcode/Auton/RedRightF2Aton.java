@@ -145,7 +145,7 @@ public class RedRightF2Aton extends LinearOpMode {
             sleep(700);
             //robot.Drive.pointTurn(90,0.3);
             sleep(700);
-            robot.lift.driveLiftToPosition(0.5, 1500);
+            robot.lift.driveLiftToPosition(0.5, 1200);
             sleep(700);
             robot.Drive.MoveRobotToPosition(0.3, 5);
             sleep(700);
@@ -164,7 +164,7 @@ public class RedRightF2Aton extends LinearOpMode {
             sleep(700);
             //robot.Drive.pointTurn(90,0.3);
             sleep(700);
-            robot.lift.driveLiftToPosition(0.5, 1500);
+            robot.lift.driveLiftToPosition(0.5, 1200);
             sleep(700);
             robot.Drive.MoveRobotToPosition(0.3, 5);
             sleep(700);
@@ -182,7 +182,7 @@ public class RedRightF2Aton extends LinearOpMode {
             sleep(700);
             //robot.Drive.pointTurn(90,0.3);
             sleep(700);
-            robot.lift.driveLiftToPosition(0.5, 1500);
+            robot.lift.driveLiftToPosition(0.5, 1200);
             sleep(700);
             robot.Drive.MoveRobotToPosition(0.3, 5);
             sleep(700);
