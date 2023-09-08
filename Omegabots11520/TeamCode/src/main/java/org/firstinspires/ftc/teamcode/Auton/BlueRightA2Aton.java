@@ -160,7 +160,7 @@ public class BlueRightA2Aton extends LinearOpMode {
             robot.IntakeMotorL.setClawLPosition(0.5);
             robot.IntakeMotorR.setClawRPosition(0.6);
             robot.Drive.MoveRobotToPosition(0.3, 26);
-            robot.Drive.MoveRobotToPositionStrafe(0.3, 14);
+            robot.Drive.MoveRobotToPositionStrafe(0.3, 13);
             sleep(700);
             robot.lift.driveLiftToPosition(0.5, 1200);
             sleep(700);
@@ -176,7 +176,7 @@ public class BlueRightA2Aton extends LinearOpMode {
             robot.IntakeMotorL.setClawLPosition(0.5);
             robot.IntakeMotorR.setClawRPosition(0.6);
             robot.Drive.MoveRobotToPosition(0.3, 26);
-            robot.Drive.MoveRobotToPositionStrafe(0.3, 14);
+            robot.Drive.MoveRobotToPositionStrafe(0.3, 13);
             sleep(700);
             //robot.Drive.pointTurn(90,0.3);
             sleep(700);
